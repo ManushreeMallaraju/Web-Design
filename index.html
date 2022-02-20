@@ -14,28 +14,34 @@
     <!--viewport will be useful when we use responsive design, different layouts for different devices-->
     <title>My First Web Page</title>
 
-    <style>
-      h1 {
-        color: brown;
-        font-size: 80px;
-      }
-      p {
-        background-color: aquamarine;
-        font-size: 25px;
-      }
-    </style>
+    <link rel="stylesheet" href="./styles.css" />
+
   </head>
 
   <!-- visible content of the page-->
   <!--Elements to organize the contents -->
   <body>
     <!--6 levels of header tags <h1>...<h6> -->
-    <h1>
+    <h1 class="first-heading">
       Working with HTML & CSS
+
     </h1>
+    <header>
+      Working with HTML5 Semantic Elements
+    </header>
+
+
+    <article class="first-article">
+      <section>
+        <p class="section-one uppercase">First Section</p>
+      </section>
+      <section>
+        <p class="uppercase">Second Section</p>
+      </section>
+    </article>
 
     <!-- This is paragaraph tag -->
-    <p>Code editor used.</p>
+    <p id="code-para">Code editor used.</p>
 
     <p>This is week 2 class</p>
 
@@ -66,15 +72,20 @@
       <li></li>
     </ul>
 
-    <iframe
-      width="200"
-      height="200"
-      src="https://www.youtube.com/embed/D3oq9T0_VCo"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
+    <article class="second-article">
+      <section>
+        <iframe
+
+          height="200"
+          src="https://www.youtube.com/embed/D3oq9T0_VCo"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </section>
+
+    </article>
   </body>
 </html>
 <!-- End tags with forward slash -->

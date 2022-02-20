@@ -1,0 +1,38 @@
+header {
+    color :brown;
+    font-size: 40px;
+    background-color: antiquewhite;
+    /* padding: 40px; */
+}
+p {
+    background-color: yellowgreen;
+    font-size: 30px;
+}
+
+.first-article {
+    background-color: coral;
+    padding: 13px 10px 25px 35px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.first-heading {
+    color: blueviolet;
+    font-size: 60px;
+}
+
+.section-one {
+    background-color: yellow;
+    font-size: 25px;
+}
+
+.uppercase {
+    text-transform: uppercase ;
+}
+
+#code-para{
+    background-color: aquamarine;
+}
+
+.second-article iframe {
+    max-width: 400% ;
+}
