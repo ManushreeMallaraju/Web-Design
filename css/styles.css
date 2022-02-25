@@ -23,3 +23,15 @@ article {
   margin: auto;
   padding-top: 70px;
 }
+
+.author-details {
+  color: rgb(91, 105, 107);
+  font-size: 14px;
+  line-height: 18px;
+}
+
+h1 {
+  font-size: 40px;
+  letter-spacing: 0.1em;
+  line-height: 58px;
+}
