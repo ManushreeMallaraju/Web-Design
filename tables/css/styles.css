@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  color: blue;
+  margin-left: 80px;
+  margin-bottom: 15px;
+}
+
+table.table-main {
+  width: 100%;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+
+th,
+td {
+  border: 1px solid greenyellow;
+  border-collapse: collapse;
+  padding: 8px;
+}
