@@ -7,22 +7,45 @@
 
     <link rel="stylesheet" href="css/form.css" />
     <title>Forms</title>
-    <h1>Play with FORMS!!!</h1>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <form id="form-main">
-      <div>
-        <label> Name </label>
-        <input type="text" name="name" />
-      </div>
+    <div class="container">
+      <h3>Play with FORMS!!!</h3>
+      <form id="form-main">
+        <div>
+          <label> First Name </label>
+          <input type="text" name="firstName" id="firstName" />
+        </div>
+        <div>
+          <label> Last Name </label>
+          <input type="text" name="lastName" id="lastName" />
+        </div>
 
-      <div>
-        <label> ID </label>
-        <input type="number" name="id" />
-      </div>
+        <div>
+          <label> Employee ID </label>
+          <input type="number" name="empId" id="empId" />
+        </div>
 
-      <input type="submit" name="Sumit" />
-      <button>Submit</button>
-    </form>
+        <div>
+          <label> Designation </label>
+          <input type="number" name="designation" id="designation" />
+        </div>
+        <!-- <div>
+          <label>Status</label> -->
+        <!-- TODO:Need to add radio button -->
+        <!-- </div> -->
+        <!-- //TODO: Add Salary -->
+        <div>
+          <button class="submit">Submit</button>
+          <button class="reset">Reset</button>
+        </div>
+      </form>
+    </div>
   </body>
 </html>
