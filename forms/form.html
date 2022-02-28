@@ -17,7 +17,7 @@
   <body>
     <div class="container">
       <h3>Play with FORMS!!!</h3>
-      <form id="form-main">
+      <form id="form-main" onsubmit="event.preventDefault();">
         <div>
           <label> First Name </label>
           <input type="text" name="firstName" id="firstName" />
@@ -34,7 +34,7 @@
 
         <div>
           <label> Designation </label>
-          <input type="number" name="designation" id="designation" />
+          <input type="text" name="designation" id="designation" />
         </div>
         <!-- <div>
           <label>Status</label> -->

@@ -1,10 +1,14 @@
+/*Universal selector -> to remove margina dand padding form all the elements*/
 * {
   margin: 0;
   padding: 0;
 }
 
+/*Used block-level element <div>, to wrap the form inside a container: 
+By doing this it will be easier to style whole form
+*/
 .container {
-  width: 100%;
+  max-width: 100%;
   text-align: center;
   background-color: #c4d7f2;
 }
@@ -18,24 +22,24 @@ h3 {
 
 #form-main {
   background-color: #ecbeb4;
-  width: 100%;
+  max-width: 100%;
   border: 1px solid #ccc;
   font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 input[type='text'],
 input[type='number'] {
-  width: 25%;
+  width: 150px;
   padding: 3px 0px;
   margin: 8px 2px;
   display: inline-block;
   border: 1px solid #ccc;
   border-radius: 3px;
-  box-sizing: border-box;
+  box-sizing: border-box; /* set box-sizing: border-box; on an element, padding and border are included in the width and height:*/
 }
 
 label {
-  width: 20%;
+  width: 150px;
   padding: 5px 2px;
   margin: 8px 0px;
   display: inline-block;
@@ -55,6 +59,7 @@ button {
   text-transform: uppercase;
 }
 
+/*To change the style of button on hovering*/
 button:hover {
   cursor: pointer;
   color: white;
