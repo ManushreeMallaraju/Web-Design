@@ -1,6 +1,6 @@
 # Web-Design - Work Flow
 
-# Exercise 1 - Web-Design/web-site-homework/index.html is incomplete. 
+# Exercise 1 - Web-Design/web-site-homework is incomplete. 
 
 Here are the steps to solve the Exercise - 1:
 1. Take a pull of this project/download as .zip -> then extract the file/refer to the existing code and run <index.html> file to have a look on the existing Web-Page. 
