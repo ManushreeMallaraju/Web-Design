@@ -8,7 +8,7 @@
 By doing this it will be easier to style whole form
 */
 .container {
-  max-width: 100%;
+  max-width: 100%; /* specifing max-width make the elements to be responsive*/
   text-align: center;
   background-color: #c4d7f2;
 }

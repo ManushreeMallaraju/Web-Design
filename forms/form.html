@@ -15,9 +15,12 @@
     />
   </head>
   <body>
+    <!-- NOTE:<div> is a block level element -> used here to wrap the entire form and it's elements inside div, 
+      makes it easier to center and apply design to the entire form in a nicer way, refer to the styling of "container" in ./style.css -->
     <div class="container">
       <h3>Play with FORMS!!!</h3>
       <form id="form-main" onsubmit="event.preventDefault();">
+        <!-- TODO: onsubmit feature to be discussed in the upcoming class -->
         <div>
           <label> First Name </label>
           <input type="text" name="firstName" id="firstName" />
