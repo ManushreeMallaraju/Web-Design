@@ -2,7 +2,7 @@
 
 # Exercise 1 - Web-site-homework is incomplete. 
 
-# Here are the steps to solve the Exercise - 1:
+Here are the steps to solve the Exercise - 1:
 1. Take a pull of this project/download as .zip -> then extract the file/refer to the existing code and run <index.html> file to have a look on the existing Web-Page. 
 2. Continue the code in your branch by refering to this <index.html> file.
 3. Then complete the Web Page to match the given prototype.
