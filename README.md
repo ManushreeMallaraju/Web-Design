@@ -17,7 +17,7 @@ Hint : Refer to the Web-Design/forms code to get an idea of the design(Run index
 
 Tasks need to complete: 
 1. Add 10 rows of data to the table.
-2. Wrap the table in a <div> block level element and add a class selector(class="container") to it.
+2. Wrap the table in a `div` block level element and add a class selector(class="container") to it.
 3. Add style to this container to center the table.
 4. Style the entire table using atleast font-family, letter-spacing, padding, margin, border elements.
 
