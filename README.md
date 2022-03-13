@@ -29,8 +29,11 @@ https://www.w3schools.com/css/default.asp
 
 # Assignment 1 - 20% 
 
-References: 1.  DOM Concepts, Document, Forms, Controls, Functions : https://javascript.info/ 
+References: 
+1.  DOM Concepts, Document, Forms, Controls, Functions : https://javascript.info/ 
+
 2. https://www.w3schools.com/js/js_htmldom.asp
+
 3. Refer to tables and forms created in previous classes and work-on-scripts 
 
 
