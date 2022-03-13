@@ -7,15 +7,30 @@
     <title>Document</title>
   </head>
   <body>
-    <h1 id="header"></h1>
-
+    <h1 id="header">Hellooo thereee</h1>
+    <h2 id="header2">Second Heading</h2>
     <!-- adding heading inside h1 tag using id selector -->
     <!-- .getElementById() -> used to select html elements id selectors -->
     <!-- .innerHTML : specifies the content on the web page -->
     <!-- every html element must be picked using 'document' keyword -> AS DOCUMENT IS A PARENT OF ALL HTML ELEMENTS -->
     <script>
       const message = 'Working with Scripts' //save hard coded value in a variable and use it
-      document.getElementById('header').innerHTML = message
+      document.getElementById('header2').innerHTML = message
+
+      //function body - just like static data, works only when called
+      function test() {
+        console.log('Inside function test() :->', message)
+      }
+
+      test() //calling the falling
+
+      const test1 = 'String'
+
+      //Using arrow function.. just like defining variables
+      const test2 = () => {
+        console.log('Using arrow functions...!')
+      }
+      test2()
     </script>
   </body>
 </html>
