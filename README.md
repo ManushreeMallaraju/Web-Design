@@ -25,3 +25,10 @@ Tasks need to complete:
 References: https://coolors.co/
 https://fonts.google.com/
 https://www.w3schools.com/css/default.asp
+
+
+# Assignment 1 - 20% 
+
+
+
+ ![Assignment 1](https://user-images.githubusercontent.com/47200942/158083354-30f863ee-f9f5-4b1f-ac2c-5bb1057904dd.png)
