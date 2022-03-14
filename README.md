@@ -30,7 +30,7 @@ https://www.w3schools.com/css/default.asp
 # Assignment 1 - 20% 
 
 References: 
-1. Refer to the work-on-scripts folder to see the sample DOM methods added w.r.t Week 5 class. Follw the same way to create new rows of table.
+1. Refer to the `work-on-scripts` folder to see the sample DOM methods added w.r.t Week 5 class. Follw the same way to create new rows of table.
 
 2.  DOM Concepts, Document, Forms, Controls, Functions : https://javascript.info/ 
 
