@@ -30,11 +30,13 @@ https://www.w3schools.com/css/default.asp
 # Assignment 1 - 20% 
 
 References: 
-1.  DOM Concepts, Document, Forms, Controls, Functions : https://javascript.info/ 
+1. Refer to the work-on-scripts folder to see the sample DOM methods added w.r.t Week 5 class. Follw the same way to create new rows of table.
 
-2. https://www.w3schools.com/js/js_htmldom.asp
+2.  DOM Concepts, Document, Forms, Controls, Functions : https://javascript.info/ 
 
-3. Refer to tables and forms created in previous classes and work-on-scripts 
+3. https://www.w3schools.com/js/js_htmldom.asp
+
+4. Refer to tables and forms created in previous classes and work-on-scripts 
 
 
  ![Assignment 1](https://user-images.githubusercontent.com/47200942/158083354-30f863ee-f9f5-4b1f-ac2c-5bb1057904dd.png)
