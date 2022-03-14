@@ -7,8 +7,14 @@
     <title>Document</title>
   </head>
   <body>
-    <h1 id="header">Hellooo thereee</h1>
-    <h2 id="header2">Second Heading</h2>
+    <div id="headings-container">
+      <h3 id="header1">First Heading :</h3>
+      <h4 id="header2">Second Heading: How about it's performance?</h4>
+      <p>
+        Document Object Model (DOM), is a set of APIs for controlling HTML and
+        styling information that makes heavy use of the Document object.
+      </p>
+    </div>
     <!-- adding heading inside h1 tag using id selector -->
     <!-- .getElementById() -> used to select html elements id selectors -->
     <!-- .innerHTML : specifies the content on the web page -->
@@ -31,6 +37,33 @@
         console.log('Using arrow functions...!')
       }
       test2()
+
+      /**
+       * DOM methods:
+       * */
+      let firstChildText =
+        document.getElementById('headings-container').firstElementChild
+          .innerHTML //NOTE:1. Getting the text of the first child form html document..
+
+      // console.log(firstChild) -> TODO: check whether you got the value by printing the value here... and then continue..
+
+      //NOTE:2. Updating the heading through script..
+      document.getElementById('header1').innerHTML =
+        firstChildText + ' Adding through DOM... Up and Running!'
+
+      /**
+       * Steps to create new child elements and append them to the parent element..
+       * */
+      //NOTE:1. Creating a new <p> tag..
+      let newParaTag = document.createElement('p')
+
+      //NOTE:2. Adding what text to display inside the <p> tag...
+      newParaTag.innerHTML =
+        'Hey there! I came through appendChild() method from script!!'
+
+      //NOTE:3. Get the parent element to which you want to append this new <p> element.
+      //NOTE: 4: Then Append the new <p> tag to <div> with id:'headings-container'
+      document.getElementById('headings-container').appendChild(newParaTag)
     </script>
   </body>
 </html>
