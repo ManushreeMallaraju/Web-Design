@@ -81,9 +81,9 @@ After you enter all the details and click on SEND- > an email should be sent to 
 ![Phase6](https://user-images.githubusercontent.com/47200942/160257857-d6239506-07e2-4e1c-8841-983e4a867023.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-6. On mobile view : 
+6. `On mobile view` : 
 
-6.1: The website must be responsive and a 'Hambuger Button' should pop up on the Web Page, as the website width goes less than 1000px. All the contents in the web page should align accordingly. And toggling on the 'Hambuger Button', should show the Navbar(About, Services, Contact) and on click of any, cursur points to that particular section. - Phase 7
+6.1: The website must be responsive and a `Hambuger Button` should pop up on the Web Page, as the website width goes less than 1000px. All the contents in the web page should align accordingly. And toggling on the `Hambuger Button`, should show the Navbar(About, Services, Contact) and on click of any, cursur points to that particular section. - Phase 7
 
 ![Phase7](https://user-images.githubusercontent.com/47200942/160257738-aafc2bbf-a863-466d-8e58-d96ada8ab576.jpg)
 
