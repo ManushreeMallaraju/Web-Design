@@ -82,7 +82,7 @@ References:
 
 ![Phase7](https://user-images.githubusercontent.com/47200942/160257738-aafc2bbf-a863-466d-8e58-d96ada8ab576.jpg)
 
-
-# 6.2: Projects section consisting of 3 images hotizontally should be aligned to vertically.(Phase8)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6.2: Projects section consisting of 3 images hotizontally should be aligned to vertically.(Phase8)
 
 ![Phase8](https://user-images.githubusercontent.com/47200942/160257773-3c2dcc2a-6522-419c-ac89-5acfc0950e0d.jpg)
