@@ -40,3 +40,45 @@ References:
 
 
  ![Assignment 1](https://user-images.githubusercontent.com/47200942/158083354-30f863ee-f9f5-4b1f-ac2c-5bb1057904dd.png)
+
+# Project - 60% 
+Build a resposive website(could be a portfolio), but need to meet all the following requirements:
+
+2. Header section to display the content as shown in Phase1. ![Phase1](https://user-images.githubusercontent.com/47200942/160257671-503d18ef-025f-4c6b-9570-da4d0fdbdf97.jpg)
+
+
+3. Navbar : Consists of 3 sections: About, Services, Contact . 
+
+4. About Section : Consists of 3 tabs and respective info for each tab varies. On click of speacific tab, need to display respective information - Phase 2
+![Phase2](https://user-images.githubusercontent.com/47200942/160257842-bd1984c9-2502-4609-8619-26553635a45d.jpg)
+
+5. Services and Project Section : 
+
+5.1 Services consists of 3 sub-services. Which should display accordingly on click of arrow buttons on the Web Page. (<>) - Phase 3
+![Phase3](https://user-images.githubusercontent.com/47200942/160257715-9d4b0b61-74d4-478c-a59c-8bb156fe6cb0.jpg)
+
+
+5.2  Projects consists of 3 images, on click will redirect to the web page itself.(Will be continued in point 8).- - Phase 4
+![Phase4](https://user-images.githubusercontent.com/47200942/160257835-13f888ab-2e91-4ef1-b8cb-462b2c10acf4.jpg)
+
+
+6. Contact Section: Phase 5 -  Is the form, which captures the info of user. 
+After you enter all the details and click on SEND- > an email should be sent to the given Email ID.
+![Phase5](https://user-images.githubusercontent.com/47200942/160257828-6362aea9-9988-4f64-9fb7-6b00d060e92d.jpg)
+
+
+
+
+7. Footer Section: Should contain all your details: Your name, address, social media links and onclick navigates to respective account(Facebook, instagram, twitter) Phase 6
+![Phase6](https://user-images.githubusercontent.com/47200942/160257857-d6239506-07e2-4e1c-8841-983e4a867023.jpg)
+
+
+
+8. On mobile view : 
+
+8.1: The website must be responsive and a hamburger button should apprear as the website width decreases to 1000px. All the contents in the web page should align accordingly. And toggling on the 'Hanbuger button', should show the Navbar(About, Services, Contact) and on click of any, cursur points to that particular section. - Phase 7
+![Phase7](https://user-images.githubusercontent.com/47200942/160257738-aafc2bbf-a863-466d-8e58-d96ada8ab576.jpg)
+
+
+8.2: Projects section consisting of 3 images hotizontally should be aligned to vertically.(Phase8)
+![Phase8](https://user-images.githubusercontent.com/47200942/160257773-3c2dcc2a-6522-419c-ac89-5acfc0950e0d.jpg)
