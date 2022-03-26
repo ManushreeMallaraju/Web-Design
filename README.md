@@ -42,9 +42,11 @@ References:
  ![Assignment 1](https://user-images.githubusercontent.com/47200942/158083354-30f863ee-f9f5-4b1f-ac2c-5bb1057904dd.png)
 
 # Project - 60% 
-
-Build a resposive website(could be a portfolio), but need to meet all the following requirements:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Build a resposive website(could be a portfolio), but need to meet all the following requirements:
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. Header section to display the content of the Navbar : Consists of 3 sections: About, Services, Contact, as shown below : Phase 1. 
 
 ![Phase1](https://user-images.githubusercontent.com/47200942/160257671-503d18ef-025f-4c6b-9570-da4d0fdbdf97.jpg)
