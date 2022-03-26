@@ -57,6 +57,7 @@ Build a resposive website(could be a portfolio), but need to meet all the follow
 ![Phase2](https://user-images.githubusercontent.com/47200942/160257842-bd1984c9-2502-4609-8619-26553635a45d.jpg)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 3. Services and Project Section : 
 
 3.1 Services consists of 3 sub-services. Which should display accordingly on click of arrow buttons on the Web Page. (<>) : - Phase 3
