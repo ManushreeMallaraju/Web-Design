@@ -16,10 +16,10 @@
  */
 // console.log('Statement 1')
 
-// setTimeout(callAfterThreeSeconds = () => {
-//     const time = 3;
-//     console.log(`Called after : ${time} seconds`);
-// }, 3000);
+setTimeout(callAfterThreeSeconds = () => {
+  const time = 3;
+  console.log(`Called after : ${time} seconds`);
+}, 3000);
 
 // console.log('Statement 2')
 
