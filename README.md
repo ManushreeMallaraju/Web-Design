@@ -72,6 +72,8 @@ Build a resposive website(could be a portfolio), but need to meet all the follow
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Contact Section: Phase 5 -  Is the form, which captures the info of user. 
 After you enter all the details and click on SEND- > an email should be sent to the given Email ID.
+Access the form and access token from this site : https://postmail.invotes.com/
+Once you enter your email and you will receive a link to your mail, which gives you details of qusing postmail services. Please follow accordingly.
 
 ![Phase5](https://user-images.githubusercontent.com/47200942/160257828-6362aea9-9988-4f64-9fb7-6b00d060e92d.jpg)
 
