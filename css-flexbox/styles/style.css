@@ -5,22 +5,26 @@
 
 .flex-container {
   background-color: bisque;
-  height: 500px;
+  /* height: 500px; */
   /* flex : adding prop to the container*/
   display: flex;
-  flex-direction: column; /*by default: row */
-  justify-content: start; /* pertains to main axis.. - row */
-  align-items: start; /* pertains to cross axis - column */
+
+  /* flex-direction: column; 
+  justify-content: start; 
+  align-items: start;  */
 
   /*
   flex-direction: row; 
   justify-content: space-between; main - axis -> vertical
   align-items: end; cross-axis -> horizaontal..
   */
+  /* flex-wrap: wrap; */
 }
 
 .item {
+  flex: 1; /* grow shrink basis*/
   width: 100px;
+  /* flex-basis: 200px; */
   height: 100px;
   background-color: rgb(33, 139, 220);
   margin: 10px;
@@ -29,8 +33,23 @@
 
 .item:nth-of-type(3) {
   /* align-self: end; */
+  /* order: 1; */
+  /* flex-grow: 3; */
+  /* flex-shrink: 1; */
 }
 
 .item:nth-of-type(1) {
   /* align-self: center; */
+  /* changing the default position*/
+  /* order: 3;  */
+  /* flex-grow: 2; */
+  /* flex-shrink: 3; */
+}
+
+.item:nth-of-type(2) {
+  /* align-self: center; */
+  /* order: 2; */
+
+  /*individual flex item*/
+  /* flex-shrink: 1; */
 }
