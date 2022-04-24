@@ -13,6 +13,7 @@ let promiseObj = new Promise((resolve, reject) => {
     reject('err');
 })
 
+// handling promise
 promiseObj.then(
     // success call
     value => {
